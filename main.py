@@ -14,4 +14,5 @@ print(shape)
 size = np.size(phone)
 print(size)
 
-
+df_shape = df.shape
+print(df_shape)
